@@ -1,1 +1,9 @@
-{}
+{
+  "MICRO_PREMIUM_M4RAG7VA": {
+    "type": "PREMIUM",
+    "used": false,
+    "usedBy": null,
+    "createdAt": 1766771666893,
+    "generatedBy": "ms.maqu"
+  }
+}
