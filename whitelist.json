@@ -12,12 +12,6 @@
       "updatedAt": "2025-12-26T23:26:57.657Z",
       "tier": "PREMIUM"
     },
-    "ThismanlikecatAltss": {
-      "discordID": "1220855584543211581",
-      "discordTag": "thismanlikecat",
-      "updatedAt": "2025-12-27T01:05:44.335Z",
-      "tier": "PREMIUM"
-    },
     "MrEllenReason": {
       "discordID": "1218972951177859072",
       "discordTag": "ms.maqu",
@@ -64,6 +58,12 @@
       "discordID": "837833539143729152",
       "discordTag": "gui.guialt",
       "updatedAt": "2025-12-27T22:22:13.135Z",
+      "tier": "PREMIUM"
+    },
+    "ThismanlikecatAltss": {
+      "discordID": "1220855584543211581",
+      "discordTag": "thismanlikecat",
+      "updatedAt": "2025-12-28T13:05:24.468Z",
       "tier": "PREMIUM"
     }
   }
