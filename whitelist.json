@@ -1,11 +1,5 @@
 {
   "users": {
-    "myohiosikibaidiriz": {
-      "discordID": "825410451041943552",
-      "discordTag": "twinnn",
-      "updatedAt": "2025-12-26T23:26:57.657Z",
-      "tier": "PREMIUM"
-    },
     "ototibun": {
       "discordID": "1371057544578994260",
       "discordTag": "normal_catlolrealalt",
@@ -64,6 +58,12 @@
       "discordID": "1218972951177859072",
       "discordTag": "ms.maqu",
       "updatedAt": "2026-01-01T01:22:56.752Z",
+      "tier": "PREMIUM"
+    },
+    "icecreamburgerking": {
+      "discordID": "825410451041943552",
+      "discordTag": "twinnn",
+      "updatedAt": "2026-01-01T07:35:36.172Z",
       "tier": "PREMIUM"
     }
   }
