@@ -78,12 +78,6 @@
       "updatedAt": "2026-01-02T13:57:47.249Z",
       "tier": "PREMIUM"
     },
-    "VUNNYDARAT": {
-      "discordID": "743729823855149097",
-      "discordTag": "ifilisgone",
-      "updatedAt": "2026-01-06T14:34:33.178Z",
-      "tier": "PREMIUM"
-    },
     "8557v8557": {
       "discordID": "1184748966953353297",
       "discordTag": "8557_",
@@ -106,6 +100,12 @@
       "discordID": "1202039553007816737",
       "discordTag": "kostod",
       "updatedAt": "2026-01-14T00:46:09.753Z",
+      "tier": "PREMIUM"
+    },
+    "rikzzss": {
+      "discordID": "743729823855149097",
+      "discordTag": "ifilisgone",
+      "updatedAt": "2026-01-16T06:53:30.454Z",
       "tier": "PREMIUM"
     }
   }
