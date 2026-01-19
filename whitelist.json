@@ -78,12 +78,6 @@
       "updatedAt": "2026-01-10T02:07:43.177Z",
       "tier": "PREMIUM"
     },
-    "manu_87677": {
-      "discordID": "954700817959616522",
-      "discordTag": "manu_87677",
-      "updatedAt": "2026-01-11T13:53:39.173Z",
-      "tier": "STANDARD"
-    },
     "GreenKostod": {
       "discordID": "1202039553007816737",
       "discordTag": "kostod",
@@ -107,6 +101,12 @@
       "discordTag": "amanahmed999",
       "updatedAt": "2026-01-17T22:08:09.647Z",
       "tier": "PREMIUM"
+    },
+    "manu_87677": {
+      "discordID": "954700817959616522",
+      "discordTag": "manu_87677",
+      "updatedAt": "2026-01-19T18:01:26.708Z",
+      "tier": "STANDARD"
     }
   }
 }
