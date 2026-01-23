@@ -1,11 +1,5 @@
 {
   "users": {
-    "ototibun": {
-      "discordID": "1407024323365044457",
-      "discordTag": "normal.catlol",
-      "updatedAt": "2026-01-23T15:18:28.630Z",
-      "tier": "PREMIUM"
-    },
     "xyuanzi1": {
       "discordID": "1119698372853514381",
       "discordTag": "vx.xcx",
@@ -107,6 +101,12 @@
       "discordTag": "dam071612",
       "updatedAt": "2026-01-23T15:49:20.535Z",
       "tier": "STANDARD"
+    },
+    "ototibun": {
+      "discordID": "1407024323365044457",
+      "discordTag": "normal.catlol",
+      "updatedAt": "2026-01-23T15:53:15.118Z",
+      "tier": "PREMIUM"
     }
   }
 }
