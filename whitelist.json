@@ -30,12 +30,6 @@
       "updatedAt": "2026-01-01T01:22:56.752Z",
       "tier": "PREMIUM"
     },
-    "icecreamburgerking": {
-      "discordID": "825410451041943552",
-      "discordTag": "twinnn",
-      "updatedAt": "2026-01-01T07:35:36.172Z",
-      "tier": "PREMIUM"
-    },
     "YasufShowcase": {
       "discordID": "1256846494372335651",
       "discordTag": "yasuf.",
@@ -107,6 +101,12 @@
       "discordTag": "dam071612",
       "updatedAt": "2026-01-24T01:27:49.118Z",
       "tier": "STANDARD"
+    },
+    "myohiosikibaidiriz": {
+      "discordID": "825410451041943552",
+      "discordTag": "twinnn",
+      "updatedAt": "2026-02-07T05:04:12.290Z",
+      "tier": "PREMIUM"
     }
   }
 }
