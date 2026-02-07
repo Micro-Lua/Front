@@ -24,12 +24,6 @@
       "updatedAt": "2025-12-27T22:22:13.135Z",
       "tier": "PREMIUM"
     },
-    "v_ty7": {
-      "discordID": "1218972951177859072",
-      "discordTag": "ms.maqu",
-      "updatedAt": "2026-01-01T01:22:56.752Z",
-      "tier": "PREMIUM"
-    },
     "YasufShowcase": {
       "discordID": "1256846494372335651",
       "discordTag": "yasuf.",
@@ -106,6 +100,12 @@
       "discordID": "825410451041943552",
       "discordTag": "twinnn",
       "updatedAt": "2026-02-07T05:04:12.290Z",
+      "tier": "PREMIUM"
+    },
+    "l": {
+      "discordID": "1218972951177859072",
+      "discordTag": "ms.maqu",
+      "updatedAt": "2026-02-07T16:16:42.823Z",
       "tier": "PREMIUM"
     }
   }
